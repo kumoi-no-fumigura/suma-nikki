@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/suma-nikki",
  "yomi": "すまにっき",
  "category": "紀行",
- "description": null,
+ "description": {
+  "kind": "紀行",
+  "era": "弘化4年（1847）",
+  "author": "香川景周",
+  "desc": "弘化4年8月24日に京を発ち、伏見から舟で須磨・明石の歌枕を訪ねて京に帰るまでの紀行。同行した尾張の椿園長翁の歌もまじえる。"
+ },
  "editions": [
   {
    "pid": "993383",
