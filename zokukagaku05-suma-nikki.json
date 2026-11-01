@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zokukagaku05-suma-nikki-0001",
@@ -235,6 +238,7 @@
   "poems": 9,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T14:10:15+09:00"
+  "updated_at": "2026-11-01T14:10:15+09:00",
+  "yaku": 7
  }
 }
